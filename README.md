@@ -1,4 +1,5 @@
 Overview of this project:
+
 Project Title: Student Dropout Analysis
 Objective: The objective is to conduct a comprehensive study of student dropout rates, aiming to understand the factors influencing dropout behavior and to develop evidence-based strategies for retention and success.
 Data: The project utilizes various datasets stored in CSV files, providing demographic information, academic performance indicators, socioeconomic factors, and other relevant variables related to student dropout.
